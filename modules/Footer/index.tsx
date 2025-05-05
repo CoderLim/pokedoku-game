@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { usePathname } from 'next/navigation';
-
+import FriendLinks from '@/components/FriendLinks';
 export default function Footer() {
   const pathname = usePathname();
 
@@ -26,6 +26,9 @@ export default function Footer() {
             <a href="/privacy-policy" className="inline-block font-normal text-gray-500 transition hover:text-blue-600 sm:pr-6 lg:pr-12 py-1.5 sm:py-2 pr-6"> Privacy Policy </a>
           </div>
           <p className="text-gray-500 text-sm sm:text-base"> © Copyright 2024. All rights reserved. </p>
+        </div>
+        <div className="w-full border-b border-black mt-16">
+          <FriendLinks />
         </div>
     </footer>
   )
