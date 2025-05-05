@@ -1,0 +1,4 @@
+Sitemap: https://pokedoku.cc/sitemap.xml
+
+User-agent: *
+Allow: /

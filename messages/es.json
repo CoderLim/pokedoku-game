@@ -1,0 +1,74 @@
+{
+    "pokedoku": {
+        "meta": {
+            "title": "Pokedoku - El desafío definitivo de rompecabezas de Pokémon",
+            "description": "Pokedoku es un juego de rompecabezas diario con temática de Pokémon en el que debes resolver una cuadrícula de 3x3 en 9 intentos. Creado por fanáticos de Pokémon, ofrece un giro único para todos los seguidores de Pokémon."
+        },
+        "hero": {
+            "title": "Pokedoku",
+            "subTitle": "Una experiencia de rompecabezas de Pokémon como ninguna otra"
+        },
+        "features": {
+            "title": "Características clave",
+            "subTitle": "Qué hace destacar a Pokedoku",
+            "items": [
+                {
+                    "title": "Desafío de rompecabezas diario",
+                    "description": "Cada día, los jugadores reciben una nueva cuadrícula de 3x3 para resolver, ofreciendo diversión interminable y nuevos desafíos."
+                },
+                {
+                    "title": "Prueba de conocimientos de Pokémon",
+                    "description": "Pokedoku pone a prueba tus conocimientos sobre los tipos de Pokémon, regiones y categorías especiales en un formato estratégico basado en cuadrículas."
+                },
+                {
+                    "title": "Múltiples respuestas correctas",
+                    "description": "Cada celda de la cuadrícula puede tener múltiples respuestas válidas, lo que hace que el juego sea tanto desafiante como flexible."
+                },
+                {
+                    "title": "Creado por fanáticos de Pokémon",
+                    "description": "Desarrollado por dos apasionados fanáticos de Pokémon, Pokedoku es un juego hecho por fans para fans, inspirado en la popular Immaculate Grid."
+                }
+            ]
+        },
+        "howToPlay": {
+            "title": "¿Cómo se juega?",
+            "subTitle": "Domina el arte de Pokedoku",
+            "items": [
+                {
+                    "text": "Llena las nueve casillas con el Pokémon correcto según los criterios proporcionados para cada fila y columna. Tienes nueve intentos, y una vez que un Pokémon es colocado, no puede volver a usarse."
+                },
+                {
+                    "text": "Por ejemplo, si una casilla está entre los tipos Fuego y Lucha, elige un Pokémon como Blaziken o Infernape que encaje en ambas categorías."
+                },
+                {
+                    "text": "Algunas columnas pueden tener categorías especiales como regiones o Pokémon legendarios, así que selecciona en consecuencia."
+                },
+                {
+                    "text": "Recuerda, no puedes cambiar tus respuestas después de enviarlas, así que piensa cuidadosamente en tus elecciones."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "subTitle": "Preguntas comunes sobre Pokedoku",
+            "items": [
+                {
+                    "question": "¿Qué es Pokedoku?",
+                    "answer": "Pokedoku es un juego de rompecabezas diario con temática de Pokémon que desafía a los jugadores a llenar una cuadrícula de 3x3 con el Pokémon correcto basado en los criterios de filas y columnas."
+                },
+                {
+                    "question": "¿Cómo se juega a Pokedoku?",
+                    "answer": "Tienes nueve intentos para llenar la cuadrícula correctamente. Sé estratégico, ya que una vez que coloques un Pokémon, no puede volver a usarse en el mismo rompecabezas."
+                },
+                {
+                    "question": "¿Qué tipo de categorías aparecen en Pokedoku?",
+                    "answer": "Pokedoku presenta categorías de tipos de Pokémon en las dos primeras columnas, y la tercera columna puede incluir regiones, Pokémon legendarios o categorías especiales."
+                },
+                {
+                    "question": "¿Quién creó Pokedoku?",
+                    "answer": "Pokedoku fue creado por dos entusiastas de Pokémon, Ryan y Joe, quienes se inspiraron en Immaculate Grid y quisieron crear una experiencia de rompecabezas con temática de Pokémon."
+                }
+            ]
+        }
+    }
+}

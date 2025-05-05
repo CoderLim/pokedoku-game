@@ -1,0 +1,74 @@
+{
+    "pokedoku": {
+        "meta": {
+            "title": "Pokedoku - Die ultimative Pokemon Puzzle-Herausforderung",
+            "description": "Pokedoku ist ein tägliches Pokemon-Themen-Puzzlespiel, bei dem du ein 3x3 Gitter in 9 Versuchen lösen musst. Von Pokemon-Enthusiasten entwickelt, bietet es eine einzigartige Herausforderung für alle Pokemon-Fans."
+        },
+        "hero": {
+            "title": "Pokedoku",
+            "subTitle": "Ein Pokemon-Puzzle-Erlebnis wie kein anderes"
+        },
+        "features": {
+            "title": "Hauptmerkmale",
+            "subTitle": "Was macht Pokedoku besonders",
+            "items": [
+                {
+                    "title": "Tägliche Puzzle-Herausforderung",
+                    "description": "Jeden Tag erhalten Spieler ein neues 3x3 Gitter zum Lösen, was endlosen Spaß und neue Herausforderungen bietet."
+                },
+                {
+                    "title": "Pokemon-Wissenstest",
+                    "description": "Pokedoku testet dein Wissen über Pokemon-Typen, Regionen und spezielle Kategorien in einem strategischen Gitterformat."
+                },
+                {
+                    "title": "Mehrere richtige Antworten",
+                    "description": "Jede Zelle im Gitter kann mehrere gültige Antworten haben, was das Spiel sowohl herausfordernd als auch flexibel macht."
+                },
+                {
+                    "title": "Von Pokemon-Fans erstellt",
+                    "description": "Pokedoku wurde von zwei leidenschaftlichen Pokemon-Enthusiasten entwickelt, ein Spiel von Fans für Fans, inspiriert vom beliebten Immaculate Grid."
+                }
+            ]
+        },
+        "howToPlay": {
+            "title": "Wie spielt man?",
+            "subTitle": "Meistere die Kunst von Pokedoku",
+            "items": [
+                {
+                    "text": "Fülle alle neun Felder mit dem richtigen Pokemon basierend auf den Kriterien für jede Zeile und Spalte. Du hast neun Versuche, und sobald ein Pokemon platziert ist, kann es nicht mehr verwendet werden."
+                },
+                {
+                    "text": "Wenn ein Feld zum Beispiel zwischen den Typen Feuer und Kampf liegt, wähle ein Pokemon wie Lohgock oder Panferno, das zu beiden Kategorien passt."
+                },
+                {
+                    "text": "Einige Spalten können spezielle Kategorien wie Regionen oder legendäre Pokemon enthalten, wähle dementsprechend."
+                },
+                {
+                    "text": "Denke daran, dass du deine Antworten nach dem Absenden nicht mehr ändern kannst, also wähle sorgfältig."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Häufig gestellte Fragen",
+            "subTitle": "Häufige Fragen zu Pokedoku",
+            "items": [
+                {
+                    "question": "Was ist Pokedoku?",
+                    "answer": "Pokedoku ist ein tägliches Pokemon-Themen-Puzzlespiel, bei dem die Spieler ein 3x3 Gitter mit den richtigen Pokemon basierend auf Zeilen- und Spaltenkriterien füllen müssen."
+                },
+                {
+                    "question": "Wie spiele ich Pokedoku?",
+                    "answer": "Du hast neun Versuche, um das Gitter richtig zu füllen. Sei strategisch, denn sobald du ein Pokemon platzierst, kann es nicht im selben Puzzle wiederverwendet werden."
+                },
+                {
+                    "question": "Welche Kategorien gibt es in Pokedoku?",
+                    "answer": "In Pokedoku gibt es Pokemon-Typen in den ersten beiden Spalten, und die dritte Spalte kann Regionen, legendäre Pokemon oder spezielle Kategorien enthalten."
+                },
+                {
+                    "question": "Wer hat Pokedoku erstellt?",
+                    "answer": "Pokedoku wurde von zwei Pokemon-Enthusiasten, Ryan und Joe, erstellt, die vom Immaculate Grid inspiriert wurden und ein Pokemon-Themen-Puzzle-Erlebnis schaffen wollten."
+                }
+            ]
+        }
+    }
+}

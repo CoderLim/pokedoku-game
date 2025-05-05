@@ -1,0 +1,74 @@
+{
+    "pokedoku": {
+        "meta": {
+            "title": "Pokedoku - The Ultimate Pokemon Puzzle Challenge",
+            "description": "Pokedoku is a daily Pokemon-themed puzzle game where you solve a 3x3 grid in 9 guesses. Created by Pokemon enthusiasts, it offers a unique twist for all Pokemon fans."
+        },
+        "hero": {
+            "title": "Pokedoku",
+            "subTitle": "A Pokemon Puzzle Experience Like No Other"
+        },
+        "features": {
+            "title": "Key Features",
+            "subTitle": "What makes Pokedoku stand out",
+            "items": [
+                {
+                    "title": "Daily Puzzle Challenge",
+                    "description": "Every day, players get a new 3x3 grid to solve, offering endless fun and fresh challenges."
+                },
+                {
+                    "title": "Pokemon Knowledge Test",
+                    "description": "Pokedoku tests your knowledge of Pokemon types, regions, and special categories in a strategic grid-based format."
+                },
+                {
+                    "title": "Multiple Correct Answers",
+                    "description": "Each cell in the grid can have multiple valid answers, making the game both challenging and flexible."
+                },
+                {
+                    "title": "Created by Pokemon Fans",
+                    "description": "Developed by two passionate Pokemon enthusiasts, Pokedoku is a game by fans for fans, drawing inspiration from the popular Immaculate Grid."
+                }
+            ]
+        },
+        "howToPlay": {
+            "title": "How to Play?",
+            "subTitle": "Master the art of Pokedoku",
+            "items": [
+                {
+                    "text": "Fill all nine boxes with the correct Pokemon based on the criteria provided for each row and column. You have nine guesses, and once a Pokemon is placed, it cannot be used again."
+                },
+                {
+                    "text": "For example, if a box falls between the Fire and Fighting types, choose a Pokemon like Blaziken or Infernape that fits both categories."
+                },
+                {
+                    "text": "Some columns may feature special categories like regions or legendary Pokemon, so select accordingly."
+                },
+                {
+                    "text": "Remember, you cannot change your answers after submission, so think carefully about your choices."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subTitle": "Common questions about Pokedoku",
+            "items": [
+                {
+                    "question": "What is Pokedoku?",
+                    "answer": "Pokedoku is a daily Pokemon-themed puzzle game that challenges players to fill a 3x3 grid with the correct Pokemon based on row and column criteria."
+                },
+                {
+                    "question": "How do I play Pokedoku?",
+                    "answer": "You have nine guesses to fill the grid correctly. Be strategic, as once you place a Pokemon, it cannot be reused in the same puzzle."
+                },
+                {
+                    "question": "What kind of categories appear in Pokedoku?",
+                    "answer": "Pokedoku features Pokemon type categories in the first two columns, and the third column may include regions, legendary Pokemon, or special categories."
+                },
+                {
+                    "question": "Who created Pokedoku?",
+                    "answer": "Pokedoku was created by two Pokemon enthusiasts, Ryan and Joe, who were inspired by the Immaculate Grid and wanted to create a Pokemon-themed puzzle experience."
+                }
+            ]
+        }
+    }
+}

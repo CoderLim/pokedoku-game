@@ -1,0 +1,74 @@
+{
+    "pokedoku": {
+        "meta": {
+            "title": "Pokedoku - O Desafio Supremo de Quebra-Cabeça Pokémon",
+            "description": "Pokedoku é um jogo de quebra-cabeça diário com tema de Pokémon, onde você resolve uma grade 3x3 em 9 tentativas. Criado por entusiastas de Pokémon, oferece uma abordagem única para todos os fãs de Pokémon."
+        },
+        "hero": {
+            "title": "Pokedoku",
+            "subTitle": "Uma experiência de quebra-cabeça Pokémon como nenhuma outra"
+        },
+        "features": {
+            "title": "Principais Características",
+            "subTitle": "O que torna o Pokedoku único",
+            "items": [
+                {
+                    "title": "Desafio diário de quebra-cabeça",
+                    "description": "Todos os dias, os jogadores recebem uma nova grade 3x3 para resolver, oferecendo diversão sem fim e novos desafios."
+                },
+                {
+                    "title": "Teste de conhecimentos de Pokémon",
+                    "description": "Pokedoku testa seus conhecimentos sobre tipos de Pokémon, regiões e categorias especiais em um formato estratégico baseado em grade."
+                },
+                {
+                    "title": "Múltiplas respostas corretas",
+                    "description": "Cada célula da grade pode ter várias respostas válidas, tornando o jogo desafiador e flexível."
+                },
+                {
+                    "title": "Criado por fãs de Pokémon",
+                    "description": "Desenvolvido por dois entusiastas apaixonados por Pokémon, Pokedoku é um jogo feito por fãs para fãs, inspirado no popular Immaculate Grid."
+                }
+            ]
+        },
+        "howToPlay": {
+            "title": "Como Jogar?",
+            "subTitle": "Domine a arte do Pokedoku",
+            "items": [
+                {
+                    "text": "Preencha todas as nove caixas com o Pokémon correto, com base nos critérios fornecidos para cada linha e coluna. Você tem nove tentativas, e uma vez que um Pokémon é colocado, ele não pode ser usado novamente."
+                },
+                {
+                    "text": "Por exemplo, se uma caixa estiver entre os tipos Fogo e Luta, escolha um Pokémon como Blaziken ou Infernape que se enquadre em ambas as categorias."
+                },
+                {
+                    "text": "Algumas colunas podem apresentar categorias especiais, como regiões ou Pokémon lendários, então selecione de acordo."
+                },
+                {
+                    "text": "Lembre-se, você não pode mudar suas respostas após enviá-las, então pense bem sobre suas escolhas."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Perguntas Frequentes",
+            "subTitle": "Perguntas comuns sobre o Pokedoku",
+            "items": [
+                {
+                    "question": "O que é Pokedoku?",
+                    "answer": "Pokedoku é um jogo de quebra-cabeça diário com tema de Pokémon que desafia os jogadores a preencher uma grade 3x3 com o Pokémon correto, com base nos critérios de linhas e colunas."
+                },
+                {
+                    "question": "Como jogar Pokedoku?",
+                    "answer": "Você tem nove tentativas para preencher corretamente a grade. Seja estratégico, pois uma vez que você coloca um Pokémon, ele não pode ser reutilizado no mesmo quebra-cabeça."
+                },
+                {
+                    "question": "Que tipos de categorias aparecem no Pokedoku?",
+                    "answer": "Pokedoku apresenta categorias de tipos de Pokémon nas duas primeiras colunas, e a terceira coluna pode incluir regiões, Pokémon lendários ou categorias especiais."
+                },
+                {
+                    "question": "Quem criou o Pokedoku?",
+                    "answer": "Pokedoku foi criado por dois entusiastas de Pokémon, Ryan e Joe, que foram inspirados pelo Immaculate Grid e queriam criar uma experiência de quebra-cabeça com tema de Pokémon."
+                }
+            ]
+        }
+    }
+}

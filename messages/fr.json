@@ -1,0 +1,74 @@
+{
+    "pokedoku": {
+        "meta": {
+            "title": "Pokedoku - Le défi ultime du puzzle Pokémon",
+            "description": "Pokedoku est un jeu de puzzle quotidien sur le thème de Pokémon où vous devez résoudre une grille de 3x3 en 9 tentatives. Créé par des passionnés de Pokémon, il offre une approche unique pour tous les fans de Pokémon."
+        },
+        "hero": {
+            "title": "Pokedoku",
+            "subTitle": "Une expérience de puzzle Pokémon inédite"
+        },
+        "features": {
+            "title": "Caractéristiques principales",
+            "subTitle": "Ce qui distingue Pokedoku",
+            "items": [
+                {
+                    "title": "Défi quotidien de puzzle",
+                    "description": "Chaque jour, les joueurs reçoivent une nouvelle grille de 3x3 à résoudre, offrant un plaisir sans fin et de nouveaux défis."
+                },
+                {
+                    "title": "Test de connaissances Pokémon",
+                    "description": "Pokedoku teste vos connaissances sur les types de Pokémon, les régions et les catégories spéciales dans un format stratégique basé sur une grille."
+                },
+                {
+                    "title": "Réponses multiples valides",
+                    "description": "Chaque case de la grille peut avoir plusieurs réponses valides, rendant le jeu à la fois stimulant et flexible."
+                },
+                {
+                    "title": "Créé par des fans de Pokémon",
+                    "description": "Développé par deux passionnés de Pokémon, Pokedoku est un jeu créé par des fans pour des fans, s'inspirant de la populaire grille immaculée."
+                }
+            ]
+        },
+        "howToPlay": {
+            "title": "Comment jouer ?",
+            "subTitle": "Maîtrisez l'art de Pokedoku",
+            "items": [
+                {
+                    "text": "Remplissez les neuf cases avec le bon Pokémon en fonction des critères fournis pour chaque ligne et colonne. Vous avez neuf tentatives, et une fois qu'un Pokémon est placé, il ne peut plus être utilisé."
+                },
+                {
+                    "text": "Par exemple, si une case se situe entre les types Feu et Combat, choisissez un Pokémon comme Blaziken ou Infernape qui correspond aux deux catégories."
+                },
+                {
+                    "text": "Certaines colonnes peuvent inclure des catégories spéciales comme les régions ou les Pokémon légendaires, sélectionnez donc en conséquence."
+                },
+                {
+                    "text": "Rappelez-vous, vous ne pouvez pas changer vos réponses après les avoir soumises, alors réfléchissez bien à vos choix."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Questions fréquentes",
+            "subTitle": "Questions courantes sur Pokedoku",
+            "items": [
+                {
+                    "question": "Qu'est-ce que Pokedoku ?",
+                    "answer": "Pokedoku est un jeu de puzzle quotidien sur le thème de Pokémon qui défie les joueurs à remplir une grille de 3x3 avec les bons Pokémon en fonction des critères de lignes et de colonnes."
+                },
+                {
+                    "question": "Comment jouer à Pokedoku ?",
+                    "answer": "Vous avez neuf tentatives pour remplir correctement la grille. Soyez stratégique, car une fois que vous placez un Pokémon, il ne peut pas être réutilisé dans le même puzzle."
+                },
+                {
+                    "question": "Quel type de catégories apparaît dans Pokedoku ?",
+                    "answer": "Pokedoku présente des catégories de types de Pokémon dans les deux premières colonnes, et la troisième colonne peut inclure des régions, des Pokémon légendaires ou des catégories spéciales."
+                },
+                {
+                    "question": "Qui a créé Pokedoku ?",
+                    "answer": "Pokedoku a été créé par deux passionnés de Pokémon, Ryan et Joe, qui se sont inspirés de la grille immaculée et ont voulu créer une expérience de puzzle sur le thème de Pokémon."
+                }
+            ]
+        }
+    }
+}
